@@ -3,7 +3,8 @@ function App() {
   
   return (
     <div className="App">
-      <h3>India:</h3>
+
+      <h3>India has:</h3>
       <div className="banner">
         <div>
           Score:{" "}
